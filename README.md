@@ -79,35 +79,31 @@ week03_Muhammad_Ayaan_Zeeshan_091/
 
 ### PointDemo
 
-Open the terminal inside the `PointDemo` folder:
+Open the terminal in the project root folder:
 
-    cd PointDemo
-    javac Point.java Main.java
-    java Main
+    javac PointDemo\Point.java PointDemo\Main.java
+    java -cp PointDemo Main
 
 ### TriangleDemo
 
-Open the terminal inside the `TriangleDemo` folder:
+Open the terminal in the project root folder:
 
-    cd TriangleDemo
-    javac Point.java Triangle.java Main.java
-    java Main
+    javac TriangleDemo\Point.java TriangleDemo\Triangle.java TriangleDemo\Main.java
+    java TriangleDemo.Main
 
 ### ComplexNumberDemo
 
-Open the terminal inside the `ComplexNumberDemo` folder:
+Open the terminal in the project root folder:
 
-    cd ComplexNumberDemo
-    javac ComplexNumber.java Main.java
-    java Main
+    javac ComplexNumberDemo\ComplexNumber.java ComplexNumberDemo\Main.java
+    java ComplexNumberDemo.Main
 
 ### RationalNumberDemo
 
-Open the terminal inside the `RationalNumberDemo` folder:
+Open the terminal in the project root folder:
 
-    cd RationalNumberDemo
-    javac RationalNumber.java Main.java
-    java Main
+    javac RationalNumberDemo\RationalNumber.java RationalNumberDemo\Main.java
+    java RationalNumberDemo.Main
 
 ## Concepts Practiced
 
