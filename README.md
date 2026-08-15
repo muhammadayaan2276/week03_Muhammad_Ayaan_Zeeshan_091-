@@ -78,28 +78,36 @@ week03_Muhammad_Ayaan_Zeeshan_091/
 ## Compilation
 
 ### PointDemo
-```bash
-javac Point.java Main.java
-java Main
-```
+
+Open the terminal inside the `PointDemo` folder:
+
+    cd PointDemo
+    javac Point.java Main.java
+    java Main
 
 ### TriangleDemo
-```bash
-javac Point.java Triangle.java Main.java
-java Main
-```
+
+Open the terminal inside the `TriangleDemo` folder:
+
+    cd TriangleDemo
+    javac Point.java Triangle.java Main.java
+    java Main
 
 ### ComplexNumberDemo
-```bash
-javac ComplexNumber.java Main.java
-java Main
-```
+
+Open the terminal inside the `ComplexNumberDemo` folder:
+
+    cd ComplexNumberDemo
+    javac ComplexNumber.java Main.java
+    java Main
 
 ### RationalNumberDemo
-```bash
-javac RationalNumber.java Main.java
-java Main
-```
+
+Open the terminal inside the `RationalNumberDemo` folder:
+
+    cd RationalNumberDemo
+    javac RationalNumber.java Main.java
+    java Main
 
 ## Concepts Practiced
 
